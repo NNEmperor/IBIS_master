@@ -1,0 +1,39 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Python cache
+*.pyo
+*.pyd
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+*.venv/
+.venv/
+env/
+ENV/
+
+# Dependency directories
+lib/
+libs/
+dist/
+build/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Project-specific files
+*.env
+.env
+This .giti
